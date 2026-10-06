@@ -79,5 +79,4 @@
 
 <div align="center">
   <p><i>"بناء الأنظمة الذكية، كوداً تلو الآخر."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=anouarboudehbi&style=for-the-badge&color=blue" alt="Visitor Count" />
 </div>
